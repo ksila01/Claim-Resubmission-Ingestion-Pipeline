@@ -78,7 +78,7 @@ VII. **Resubmission Candidates:**
 
 The final output is stored in a file called resubmission_candidates.json, containing the list of eligible claims for resubmission.
 
-![](./images/Capture.png)
+![](./images/Capture.PNG)
 
 
 VIII. **Conclusions and Recommendations**
